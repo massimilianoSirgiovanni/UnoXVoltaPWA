@@ -1,0 +1,57 @@
+/*START GENERALI*/
+
+* {
+    
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, "sans-serif";
+    font-size: 14px;
+    line-height: 1.2em;
+    color: #333;
+    background: #c1f0f0;
+}
+/*END GENERALI*/
+
+/*START HEADER*/
+
+header{
+    background: #33cccc;
+    border-bottom: 5px solid #ff66d9;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+/*END HEADER*/
+
+.lineFunct{
+    
+    background-color: white;
+    width: 80%;
+    margin-top: 15px;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: inline-block;
+    
+    
+}
+
+#OddFunct{
+    
+    
+    border: 2px solid #33cccc;
+    width: 25%;
+}
+
+#EvenFunct{
+    
+    border: 2px solid #ff66d9;
+    width: 25%;
+}
